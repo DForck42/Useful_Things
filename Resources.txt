@@ -1,0 +1,18 @@
+Training/Education:
+  Blogs:
+    https://sqlperformance.com/
+    https://www.brentozar.com/blog/
+    https://erikdarling.com/
+    https://littlekendra.com/
+    https://blog.sqlauthority.com/
+  
+  Youtube videos:
+    https://www.youtube.com/@SQLBits
+    https://www.youtube.com/@EightKB
+
+
+Third party tools:
+  https://dbatools.io/
+  https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit
+  https://ola.hallengren.com/
+  https://github.com/amachanic/sp_whoisactive/releases
